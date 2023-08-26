@@ -1,0 +1,22 @@
+{
+    "name": "Ethane",
+    "website": "Ethane.app",
+    "description": "Gasless Account Abstraction Swap.",
+    "explorer": "https://etherscan.io/token/0x6aD9a31f02F1E790fF85584EA3c3D0001E45cd64",
+    "research": "https://linktr.ee/ethaneerc",
+    "symbol": "C2H6",
+    "type": "coin",
+    "decimals": 9,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "linktree",
+            "url": "https://linktr.ee/ethaneerc"
+        },
+        
+       
+    ]
+}
